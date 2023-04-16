@@ -1,6 +1,5 @@
 {
-  "git.ignoreLimitWarning": true,
   "files.associations": {
-    "*.mq5": "cpp"
+    "*.mqh": "cpp"
   }
 }
